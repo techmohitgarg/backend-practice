@@ -1,4 +1,4 @@
-# Phase 0 — MERN Development Environment Setup (macOS)
+# Phase 0 — Setup notes
 
 # What We Installed
 
