@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "variables": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/01-basics && node variables.js",
+    "datatypes": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/01-basics && node datatypes.js"
   },
   "keywords": [],
   "author": "",
