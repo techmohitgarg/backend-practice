@@ -19,7 +19,11 @@ console.log("Is Student:", isStudent);
 let city = "New York";
 console.log("City:", city);
 
+city = "Los Angeles"; // Reassigning a new value to the variable
+console.log("Updated City:", city);
+
 // const (block-scoped, cannot be reassigned)
 //const → immutable Kotlin val
 const country = "USA";
 console.log("Country:", country);
+//country= "Canada"; // This will throw an error because const variables cannot be reassigned
