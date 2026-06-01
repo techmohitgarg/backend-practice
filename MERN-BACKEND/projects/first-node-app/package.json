@@ -9,7 +9,17 @@
     "variables": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/01-basics && node variables.js",
     "datatypes": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/01-basics && node datatypes.js",
     "operators": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/01-basics && node operators.js",
-    "challenges": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/01-basics && node challenges.js"
+    "challenges": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/01-basics && node challenges.js",
+    "function-declaration": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node function-declaration.js",
+    "function-parameters": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node parameters.js",
+    "function-return-values": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node return-values.js",
+    "function-challenges": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node challenges.js",
+    "function-expression": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node function-expression.js",
+    "arrow-expression": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node arrow-functions.js",
+    "scope": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node scope.js",
+    "callback-functions": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node callback-functions.js",
+    "higher-order-functions": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node higher-order-functions.js",
+    "user-manager": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node user-manager.js"
   },
   "keywords": [],
   "author": "",
