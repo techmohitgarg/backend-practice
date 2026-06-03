@@ -19,7 +19,11 @@
     "scope": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node scope.js",
     "callback-functions": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node callback-functions.js",
     "higher-order-functions": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node higher-order-functions.js",
-    "user-manager": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node user-manager.js"
+    "user-manager": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/02-functions && node user-manager.js",
+    "array-basics": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/03-arrays-objects && node arrays-basics.js",
+    "object-basics": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/03-arrays-objects && node objects-basics.js",
+    "destructuring": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/03-arrays-objects && node destructuring.js",
+    "spread-operator": "cd /Users/mohitgarg/Documents/mohit-backend-work/backend-practice/MERN-BACKEND/practice/javascript/03-arrays-objects && node spread-operator.js"
   },
   "keywords": [],
   "author": "",
